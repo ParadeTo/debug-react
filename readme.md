@@ -4,7 +4,7 @@
 
 ```bash
 1. git clone https://github.com/ParadeTo/debug-react.git --depth 1
-2. cd debug-react/react
+2. cd debug-react
 3. git clone -b debug https://github.com/ParadeTo/react.git --depth 1
 ```
 
